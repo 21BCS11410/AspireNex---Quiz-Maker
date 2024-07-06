@@ -9,8 +9,6 @@
 
 **QUIZDOM** is an all-inclusive web application designed for users of all types. Once logged in, users can create and join quizzes simply by sharing a unique quiz code. While many quiz-generating apps exist, QUIZDOM stands out by allowing quizzes to be created and taken on the same platform, making student evaluation straightforward and efficient. Teachers can create quizzes and control their accessibility, ensuring that only intended participants can join. When public access is enabled, a unique and secure quiz code is generated, which can be shared with students. This quiz code prevents anonymous entries and ensures only invited participants can take part. Additionally, teachers receive a detailed list of students and their scores for each quiz, simplifying the process of tracking and assessing student performance.
 
-## ⏯ Preview
-
 ## 🚀 Configuration Guidelines
 
 - Create an account on firebase.google.com and add the API key in the .env file.
