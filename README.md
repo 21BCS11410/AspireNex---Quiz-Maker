@@ -11,10 +11,6 @@
 
 ## ⏯ Preview
 
-<!-- Take a look at the live <a href="https://quizdom-app.herokuapp.com/" target="_blank">Preview of the app.</a>. -->
-
-<!-- ![Quizdom Demo](https://user-images.githubusercontent.com/46846821/113098567-12f45080-9212-11eb-84f4-a4e9092453e1.gif) -->
-
 ## 🚀 Configuration Guidelines
 
 - Create an account on firebase.google.com and add the API key in the .env file.
@@ -24,10 +20,6 @@
 - Open a terminal with the path set to the root directory of the project and run `npm install` command to install the required packages.
 - Open a new terminal with the path set to the backend directory of the project and run `npm install` command to install the required packages.
 - After successful installation of all packages, run the command `npm start` in the terminal with the path set to the root directory and wait for the project to initiate.
-
-<!-- ## Supported Environments
-
-- Windows/ macOS/ Linux operating systems are supported for the development of the respective project. -->
 
 ## Blind Quiz Commands
 
