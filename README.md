@@ -7,13 +7,13 @@
 
 ## 🎓Overview
 
-QUIZDOM is a web application for all kinds of users. Users can simply log in to be able to create and join quizzes by sharing the quiz code. There might be lots of quiz-generating applications, but the idea of creating a quiz and then taking it on the same platform and evaluating the students in such an amazingly easier way is quite innovative, where a teacher will create a quiz and have control over its shareability and access. Upon enabling public access, the app will provide a unique and secure quiz code that can be shared with students. Quiz code will be used by students to join the quiz and to avoid anonymous spamming entries. A list of students and their marks in respective quizzes will be shared with the creator/ teacher of the quiz.
+**QUIZDOM** is an all-inclusive web application designed for users of all types. Once logged in, users can create and join quizzes simply by sharing a unique quiz code. While many quiz-generating apps exist, QUIZDOM stands out by allowing quizzes to be created and taken on the same platform, making student evaluation straightforward and efficient. Teachers can create quizzes and control their accessibility, ensuring that only intended participants can join. When public access is enabled, a unique and secure quiz code is generated, which can be shared with students. This quiz code prevents anonymous entries and ensures only invited participants can take part. Additionally, teachers receive a detailed list of students and their scores for each quiz, simplifying the process of tracking and assessing student performance.
 
 ## ⏯ Preview
 
-Take a look at the live <a href="https://quizdom-app.herokuapp.com/" target="_blank">Preview of the app.</a>.
+<!-- Take a look at the live <a href="https://quizdom-app.herokuapp.com/" target="_blank">Preview of the app.</a>. -->
 
-![Quizdom Demo](https://user-images.githubusercontent.com/46846821/113098567-12f45080-9212-11eb-84f4-a4e9092453e1.gif)
+<!-- ![Quizdom Demo](https://user-images.githubusercontent.com/46846821/113098567-12f45080-9212-11eb-84f4-a4e9092453e1.gif) -->
 
 ## 🚀 Configuration Guidelines
 
@@ -25,9 +25,9 @@ Take a look at the live <a href="https://quizdom-app.herokuapp.com/" target="_bl
 - Open a new terminal with the path set to the backend directory of the project and run `npm install` command to install the required packages.
 - After successful installation of all packages, run the command `npm start` in the terminal with the path set to the root directory and wait for the project to initiate.
 
-## Supported Environments
+<!-- ## Supported Environments
 
-- Windows/ macOS/ Linux operating systems are supported for the development of the respective project.
+- Windows/ macOS/ Linux operating systems are supported for the development of the respective project. -->
 
 ## Blind Quiz Commands
 
@@ -38,7 +38,7 @@ Take a look at the live <a href="https://quizdom-app.herokuapp.com/" target="_bl
   - `start Quiz` or `title`: To hear the Quiz title and first Question.
   - `Select Option [Number]` or `Choose Option [Number]`: To mark the option of the current Question.
   - `next question`: to increment the question index and move to the next question and listen to it.
-  - `previous question`: to decrement the question index and move to the previous question and listen to it
+  - `previous question`: to decrement the question index and move to the previous question and listen to it.
   - `Repeat Question [Number]`: To hear a specific Question.
   - `Repeat Current Question`: To repeat the current Question.
   - `submit quiz`: to submit the quiz.
